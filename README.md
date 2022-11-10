@@ -40,13 +40,30 @@ Para su desarrollo debe evitarse en lo posible redactar párrafos continuos de t
 1. Exprese cada uno de los números siguientes en notación científica:
 (a) 3000
 3x10^3
-Explicación: Se recorre el punto decimal 
+Solución: Se recorre el punto decimal 3 lugares hacia la izquierda con un potencia positiva de 10, por tanto queda como resultado 3x10^3
 
-(b) 75,000 (c) 2,000,000
+(b) 75 000
+Solución: Se recorre el punto decimal 4 lugares hacia la izquierda con una potencia positiva de 10, dando como resultado 7,5x10^4
+(c) 2 000 000
+Solución: Se recorre el punto decimal 6 lugares hacia la izquierda con una potencia positiva de 10, dando como resultado de esto 2x10^6
 
 2. Exprese cada número fraccionario en notación científica:
 
-(a) 1/500 (b) 1/2000 (c) 1/5,000,000
+(a) 1/500
+Solución:
+* Primero se calcula el resultado de 1/500 que es 0.002
+* Después se expresa en notación científica.
+* Por tanto se recorre el punto decimal 3 lugares hacia la derecha con una potencia negativa de 10, obteniendo 2x10^-3
+ (b) 1/2000
+Solución:
+* Primero se calcula el resultado de 1/2000 que es 0.0005
+* Después se expresa en notación científica.
+* Por tanto se recorre el punto decimal 4 lugares hacia la derecha con una potencia negativa de 10, obteniendo 5x10^-4.
+ (c) 1/5000000
+Solución:
+* Primero se calcula el resultado de 1/5000000 que es 0.0000002
+* Después se expresa en notación científica.
+* Por tanto se recorre el punto decimal 7 lugares hacia la derecha con una potencia negativa de 10, obteniendo 2x10^-7.
 
 3. Exprese cada uno de los números siguientes en notación científica:
 
@@ -54,7 +71,11 @@ Explicación: Se recorre el punto decimal
 
 4. Exprese cada uno de los números siguientes en notación científica:
 
-(a) 0.0002 (b) 0.6 (c)
+(a) 0.0002
+Solución: Se recorre el punto decimal 4 lugares hacia la derecha con una potencia negativa de 10, da como resultado 2x10^-4.
+(b) 0.6
+Solución: Se recorre el punto decimal 1 lugar hacia la derecha con una potencia negativa de 10, se obtiene 6x10^-1.
+(c)
 
 5. Exprese cada uno de los números siguientes en notación científica:
 
