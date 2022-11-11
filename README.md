@@ -171,142 +171,349 @@ Solución:
     
     a) 89000
     
-    Se re
+    Solución: 89x10^3 ya que se recorre tres lugares hacia la izquierda.
     
     b) 450000
     
+    Solución: 450x10^3 ya que se recorre tres lugares hacia la izquierda.
+    
     c) 12040000000000
     
-16. Exprese cada número en notación de ingeniería:
-    a) 9.81 x 10^-3 
+    Solución: 12.04x10^12 ya que se recorre doce lugares hacia la izquierda.
     
-    b) 4.82 x 10^-4 
+16. Exprese cada número en notación de ingeniería:
+
+    a) 9.81 x 10^-3
+    
+    Solución: Este número ya esta expresado en notación de ingeniería.
+    
+    b) 4.82 x 10^-4
+    
+    Solución: 482 x 10^-6 ya que se recorre 6 lugares hacia la derecha.
     
     c) 4.38 x 10^-7
     
+    Solución: 438 x 10^-9 ya que se recorre 9 lugares hacia la derecha.
+  
 18. Multiplique los números siguientes y exprese cada resultado en notación de ingeniería:
    
    a) (32 x 10^-3)(56 x 10^3)
-    
+   
+   Solución: 
+   *  Se multiplica los números sin la potencia
+   *  32x56=1792
+   *  Ahora se suma exponentes 
+   *  -3+3=0
+   *  Resultado es 1792, convertido en notación de ingeniería queda:
+   *  1.792 x10^3 
+       
    b) (1.2 x 10^-6)(1.2 x 10^-6)
+   
+   Solución: 
+   *  Se multiplica los números sin la potencia
+   *  1.2x1.2 = 1.44
+   *  Ahora se suma exponentes 
+   *  -6-6= -12
+   *  Resultado es 1.44 X10^-12, convertido en notación de ingeniería queda de la misma forma.
    
    c) 100(55 x 10-3)
    
+   Solución:
+   *  Se multiplica los números sin la potencia
+   *  100x55 = 5500
+   *  Ahora se suma exponentes 
+   *  0-3= -3
+   *  Resultado es 5500 x10^-3, convertido en notación de ingeniería queda de la misma forma
+   
 20. Exprese cada número del problema 13 en ohms por medio de un prefijo métrico.
 
+    a) 89 000
+
+    Solución: 89 kΩ
+
+    b) 450 000 
+
+    Solución: 450 kΩ
+
+    c) 12 040 000 000 000
+    
+    Solución: 12.04 TΩ
 
 22. Exprese cada uno de los siguientes números como una cantidad precedida por un prefijo métrico:
     
     a) 31 x 10^-3 A
     
+    Solución: 31 mA
+    
     b) 5.5 x 10^3 V
     
+    Solución: 5.5 kV
+    
     c) 20 x 10^-12 F
+    
+    Solución: 20 pF 
     
 24. Exprese cada una de las cantidades siguientes por medio de prefijos métricos:
     
     a) 2.5x10^-12 A
     
+    Solución: 2.5 pA
+    
     b) 8x10^9 Hz
     
+    Solución: 8 GHz
+    
     c) 4.7x10^3 Ω
+    
+    Solución: 4.7 kΩ
 
 26. Exprese cada cantidad en notación de ingeniería:
     
     a) 5 μA
     
+    Solución: 5x10^-6 A
+    
     b) 43 mV
+    
+    Solución: 43x10^-3 V
     
     c) 275 kΩ
     
+    Solución: 275x10^3 A
+    
     d) 10 MW
+    
+    Solución: 10x10^6 W
    
 #### 1–4 Conversiones de unidades métricas
 
 28. Determine lo siguiente:
     a) El número de microamperes en 1 miliampere
+    
+    1 mA a μA = 0.001 mA = 0.000001 μA
+    
     b) El número de milivolts en 0.05 kilovolts
+    
+    0.05 kV a mV = 0.05 kV = 50000 mV
+    
     c) El número de megohms en 0.02 kilohms
+    
+    0.02 kΩ a MΩ = 0.02 kΩ = 0.00002 MΩ
+    
     d) El número de kilowatts en 155 miliwatts
+    
+    155 mW a kW = 155 mW = 0.000155 mW
     
 30. Realice las siguientes operaciones:
 
     a) 10 kΩ/(2.2 kΩ + 10 kΩ)
     
-    b) 250 mV / 50 μV 
+    Solución:
+    * 10 kΩ/(2.2 kΩ + 10 kΩ)
+    * 10 kΩ/(12.2 kΩ)
+    * 0.82 kΩ
+    
+    b) 250 mV / 50 μV
+    
+    Solución:
+    * Convertir a las mismas unidades, quedando:
+    * 250 mV / 0.05 mV
+    * 250.05 mV
     
     c) 1 MW / 2 kW
+    
+    Solución:
+    * Convertir a las mismas unidades, quedando:
+    * 1000 kW / 2 kW
+    * 500 kW
     
 #### 2–2 Carga eléctrica
 
 2. ¿Cuál es la carga en coulombs del núcleo de un átomo de cloro?
 
+    Q= #electrones/ 6.25x10^18 electrones/C
+    Q= 17/ 6.25x10^18 electrones/C
+    Q= 2.72x10^-18 C 
+    La carga es 2.72x10^-18 C, ya que se obtuvo con la fórmula.
+ 
 4. ¿Cuántos electrones se requieren para producir 80 mC (microcoulombs) de carga?
 
+    Se convierte los 80 mC a C, que son 0.08C
+    Despúes se obtiene al despejar de la fórumla los electrones:
+    * Q= #electrones/ 6.25x10^18 electrones/C
+    * #electrones= Q x 6.25x10^18 electrones/C
+    * #electrones= 0.08C x 6.25x10^18 electrones/C
+    * #electrones= 5x10^17 electrones
 
 #### 2–3 Voltaje, corriente y resistencia
 
 6. Se utilizan quinientos joules de energía para mover 100 C de carga por un resistor. ¿Cuál es el voltaje
 a través del resistor?
 
+    Solución: 
+    * Usar la fórmula de V=W/Q
+    * V=W/Q
+    * V=500J/100C= 5V
+
 8. ¿Cuánta energía utiliza una batería de 12 V para mover 2.5 C por un circuito?
 
+    Solución: 
+    * Usar la fórmula de V=W/Q
+    * Despejar W, queda W=VxQ
+    * W=VxQ
+    * W=12V x 2.5C
+    * W= 30J
+
 10. Determine la corriente en cada uno de los siguientes casos:
-a) 75 C en 1 s 
 
-b) 10 C en 0.5 s 
+    a) 75 C en 1 s
+    
+    Solución: 
+    * Usar la fórmula I= Q/t
+    * I=Q/t
+    * I= 75C / 1s
+    * I= 75 A
+    
+    b) 10 C en 0.5 s
+    
+    Solución: 
+    * Usar la fórmula I= Q/t
+    * I=Q/t
+    * I= 10C / 0.5s
+    * I= 20 A
 
-c) 5 C en 2 s
+    c) 5 C en 2 s
+    
+    Solución: 
+    * Usar la fórmula I= Q/t
+    * I=Q/t
+    * I= 5C / 2s
+    * I= 2.5 A
 
 12. ¿Cuánto tiempo requieren 10 C para fluir más allá de un punto si la corriente es de 5 A?
 
-14. 5.74 3 1017 electrones fluyen por un alambre en 250 ms. ¿Cuál es la corriente en amperes?
+Solución: 
+    * Usar la fórmula I= Q/t
+    * Despejar de la fórmula el tiempo
+    * t=Q/I
+    * t= 10C / 5A
+    * t= 2 s
+
+14. 5.74x10^17 electrones fluyen por un alambre en 250 ms. ¿Cuál es la corriente en amperes?
+
+Solución:    
+    * Primero se debe hallar la carga eléctrica con la fórmula:
+    * Q= #electrones/ 6.25x10^18 electrones/C
+    * Q= 5.74x10^17 electrones/ 6.25x10^18 electrones/C
+    * Q= 0.092 C
+    * Ahora se halla la corriente con la fórumla:
+    * I= Q/t = 0.092 C / 0.250 s = 0.368 A
 
 16. Encuentre la resistencia correspondiente a las siguientes conductancias:
 
-a) 0.1 S 
+    a) 0.1 S 
+    
+    Solución: 
+    * Para hallar la conductancia se usa la fórmula: 
+    * R = 1/G
+    * R = 1/0.1 S
+    * R = 10 Ω
+    
+    b) 0.5 S
+    
+    Solución:
+    * Para hallar la conductancia se usa la fórmula: 
+    * R = 1/G
+    * R = 1/0.5 S
+    * R = 2 Ω
 
-b) 0.5 S 
+    c) 0.02 S
 
-c) 0.02 S
-
-
+    Solución:
+    * Para hallar la conductancia se usa la fórmula: 
+    * R = 1/G
+    * R = 1/0.02 S
+    * R = 50 Ω
 
 #### 2–4 Fuentes de voltaje y de corriente
 
 18. ¿En qué principio se basan los generadores eléctricos?
 
-20. Cierta fuente de corriente proporciona 100 mA a 1 kV de carga. Si la resistencia disminuye a 500 V,
+Para los generadores eléctricos se basan en que la corriente eléctrica crea un campo magnético que lo rodea y al revez, siendo el campo magnético que crea corriente, por eso el principio de inducción electromagnética.
+
+20. Cierta fuente de corriente proporciona 100 mA a 1 kV de carga. Si la resistencia disminuye a 500 Ω,
 ¿cuál es la corriente en la carga?
 
+Solución:
+* Se usa la fórmula V=IxR
+* V=IxR= 100 mA x 1 kΩ= 100 V
+* Despúes se usa la fórmula de I=V/R
+* I=V/R= 100 V / 500 Ω= 200 mA
+* Se dupluica la corriente al tener el valor de resistencia a la mitad.
 
 #### 2–5 Resistores
 
 22. Encuentre las resistencias mínima y máxima dentro de los límites de tolerancia para cada resistor del
 problema 21.
 
+    a) 27000Ω ±5%
+    
+    Solución: 
+    Máxima: 27135 Ω
+    Mínima: 26865 Ω
+    
+    b) 1800 ±10%
+    
+    Solución: 
+    Máxima: 1980 Ω
+    Mínima: 1620 Ω
+    
 24. Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 4 bandas:
-25. 
+
 a) café, negro, negro, oro
+
+Solución:
+10 Ω ±5%
 
 b) verde, café, verde, plata
 
+Solución:
+5.1 MΩ ±10%
+
 c) azul, gris, negro, oro
 
+Solución:
+68 Ω ±5%
+
 26. Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 5 bandas:
-27. 
+
 a) rojo, gris, violeta, rojo, café
+
+Solución:
+28.7 kΩ ±1%
 
 b) azul, negro, amarillo, oro, café
 
+
+Solución:
+60.4 Ω ±1%
+
 c) blanco, naranja, café, café, café
+
+Solución:
+9.31kΩ ±1%
 
 28. El contacto ajustable de un potenciómetro lineal se coloca en el centro mecánico de su ajuste. Si la
 resistencia total es de 1000 V, ¿cuál es la resistencia entre cada terminal y el contacto ajustable?
 
+Seria igual a la mitad de su valor ya que es el 50%. 
+
 30. Determine la resistencia y la tolerancia de cada resistor rotulado como sigue:
 
 a) 4R7J
+
+Solución:
+9.31kΩ ±1%
 
 b) 5602M 
 
@@ -319,8 +526,35 @@ conectado para proteger el circuito contra corriente excesiva.
 
 ![](https://github.com/dennis-jaguaco/Tarea1/blob/main/ejercicio32.png)
 
+34. ¿A través de que resistor de la figura 2-70 siempre hay corriente, sin importar la posición de los interruptores?
 
-####
+![](https://github.com/dennis-jaguaco/Tarea1/blob/main/ejercicio34.png)
+
+36. Las diferentes secciones de un sistema estereofónico están representadas por los bloques que aparecen en la figura 2-71. Muestre cómo se puede utilizar un solo interruptor para conectar el fonógrafo, el reproductor de discos compactos, la casetera, el sintonizador de AM, o el sintonizador de FM al amplificador mediante una sola perilla de control. En un momento dado, solamente una sección puede ser conectada al amplificador.
+
+![](https://github.com/dennis-jaguaco/Tarea1/blob/main/ejercicio36.png)
+
+38. Explique cómo mediría la resistencia de R2 en la figura 2-72.
+
+![](https://github.com/dennis-jaguaco/Tarea1/blob/main/ejercicio38.png)
+
+40. En la figura 2-73, indique cómo se conecta un amperímetro para medir la corriente que sale de la
+fuente de voltaje sin importar la posición del interruptor.
+
+![](https://github.com/dennis-jaguaco/Tarea1/blob/main/ejercicio40.png)
+
+42. Muestre la colocación apropiada de los voltímetros para medir el voltaje a través de cada resistor
+presente en la figura 2-70.
+
+![](https://github.com/dennis-jaguaco/Tarea1/blob/main/ejercicio34.png)
+
+44. ¿Cuánta resistencia está midiendo el ohmmetro de la figura 2-75?
+
+![](https://github.com/dennis-jaguaco/Tarea1/blob/main/ejercicio44.png)
+
+
+46. ¿Cuál es la resolución máxima de un multímetro digital de 4 1/2 dígitos?
+
 
 ### 4. VIDEO
 
