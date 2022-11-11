@@ -18,144 +18,153 @@
 ### 2. MARCO TEÓRICO (RESUMEN)
 
 ####   Capítulo 1
+
 Tipos de materiales usados en electrónica:
+
 * Conductor: En este tipo de material se lo conoce por su baja resistencia al paso de corriente,
 * Semiconductor: Usado dependiendo que tipo de tarea se quiera emplear, ya sea como conductor para un paso de corriente libre, o de aislante siendo lo contrario al conductor, donde el paso de corriente se va a impedir.
 * Aislante: Será difícil pasar corriente por un material aislante. 
   
 #### Carga eléctrica
+
 Se establece como una propiedad la carga eléctrica que ocurre cuando ciertas partículas subatómicas interactúan entre sí, esta interacción es electromagnética, a casusa de cargas que puedes ser positivas y a su vez van a ser cargas negativas de las partículas.
 
 ![](https://github.com/dennis-jaguaco/Informe1/blob/main/Capítulo1.png)
+
+####   Capítulo 2
+
+![](https://github.com/dennis-jaguaco/Informe1/blob/main/Capítulo2.png)
 
 ### 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 #### 1-2 Notación Científica
 
 1. Exprese cada uno de los números siguientes en notación científica:
-(a) 3000
+   
+a) 3000
 
-Solución: Se recorre el punto decimal 3 lugares hacia la izquierda con un potencia positiva de 10, por tanto queda como resultado 3x10^3
+   Solución: Se recorre el punto decimal 3 lugares hacia la izquierda con un potencia positiva de 10, por tanto queda como resultado 3x10^3
 
-(b) 75 000
+b) 75 000
 
-Solución: Se recorre el punto decimal 4 lugares hacia la izquierda con una potencia positiva de 10, dando como resultado 7,5x10^4
+   Solución: Se recorre el punto decimal 4 lugares hacia la izquierda con una potencia positiva de 10, dando como resultado 7,5x10^4
 
-(c) 2 000 000
+c) 2 000 000
 
-Solución: Se recorre el punto decimal 6 lugares hacia la izquierda con una potencia positiva de 10, dando como resultado de esto 2x10^6
+   Solución: Se recorre el punto decimal 6 lugares hacia la izquierda con una potencia positiva de 10, dando como resultado de esto 2x10^6
 
 2. Exprese cada número fraccionario en notación científica:
 
 a) 1/500
 
-Solución:
-* Primero se calcula el resultado de 1/500 que es 0.002
-* Después se expresa en notación científica.
-* Por tanto se recorre el punto decimal 3 lugares hacia la derecha con una potencia negativa de 10, obteniendo 2x10^-3.
+   Solución:
+   * Primero se calcula el resultado de 1/500 que es 0.002
+   * Después se expresa en notación científica.
+   * Por tanto se recorre el punto decimal 3 lugares hacia la derecha con una potencia negativa de 10, obteniendo 2x10^-3.
 
 b) 1/2000
  
-Solución:
-* Primero se calcula el resultado de 1/2000 que es 0.0005
-* Después se expresa en notación científica.
-* Por tanto se recorre el punto decimal 4 lugares hacia la derecha con una potencia negativa de 10, obteniendo 5x10^-4.
+    Solución:
+    * Primero se calcula el resultado de 1/2000 que es 0.0005
+    * Después se expresa en notación científica.
+    * Por tanto se recorre el punto decimal 4 lugares hacia la derecha con una potencia negativa de 10, obteniendo 5x10^-4.
 
 c) 1/5000000
 
-Solución:
-* Primero se calcula el resultado de 1/5000000 que es 0.0000002
-* Después se expresa en notación científica.
-* Por tanto se recorre el punto decimal 7 lugares hacia la derecha con una potencia negativa de 10, obteniendo 2x10^-7.
+    Solución:
+    * Primero se calcula el resultado de 1/5000000 que es 0.0000002
+    * Después se expresa en notación científica.
+    * Por tanto se recorre el punto decimal 7 lugares hacia la derecha con una potencia negativa de 10, obteniendo 2x10^-7.
 
 
 4. Exprese cada uno de los números siguientes en notación científica:
 
 a) 0.0002
 
-Solución: Se recorre el punto decimal 4 lugares hacia la derecha con una potencia negativa de 10, da como resultado 2x10^-4.
+    Solución: Se recorre el punto decimal 4 lugares hacia la derecha con una potencia negativa de 10, da como resultado 2x10^-4.
 
 b) 0.6
 
-Solución: Se recorre el punto decimal 1 lugar hacia la derecha con una potencia negativa de 10, se obtiene 6x10^-1.
+    Solución: Se recorre el punto decimal 1 lugar hacia la derecha con una potencia negativa de 10, se obtiene 6x10^-1.
 
 c) 7.8x10^-2
 
-Solución: Se recorre el punto decimal 2 lugares hacia la izquierda con una potencia de 10, se obtiene 0.078
+    Solución: Se recorre el punto decimal 2 lugares hacia la izquierda con una potencia de 10, se obtiene 0.078
 
 6. Exprese cada uno de los números siguientes como un número decimal regular:
 
-a) 2x10^5
+  a) 2x10^5
 
-Soluciòn: Se recorre 5 lugares a la derecha con potencia de 10, se obtiene 200000.
+    Soluciòn: Se recorre 5 lugares a la derecha con potencia de 10, se obtiene 200000.
 
-b) 5.4x10^-9
+  b) 5.4x10^-9
 
-Soluciòn: Se recorre 9 lugares a la izquierda con potencia de 10, se obtiene 0.0000000054
+    Soluciòn: Se recorre 9 lugares a la izquierda con potencia de 10, se obtiene 0.0000000054
 
-c) 1.0x10^1
+  c) 1.0x10^1
 
-Soluciòn: Se recorre 1 lugar a la derecha con potencia de 10, se obtiene 10.
+    Soluciòn: Se recorre 1 lugar a la derecha con potencia de 10, se obtiene 10.
 
 8. Exprese cada número de los siguientes como un número decimal regular:
 
-(a) 4.5x10^-6
+a) 4.5x10^-6
 
-Soluciòn: Se recorre 6 lugares a la izquierda con potencia de 10, se obtiene 0.0000045
+    Soluciòn: Se recorre 6 lugares a la izquierda con potencia de 10, se obtiene 0.0000045
 
-(b) 8x10^-9
+b) 8x10^-9
 
-Soluciòn: Se recorre 9 lugares a la izquierda con potencia de 10, se obtiene 0.000000008
+    Soluciòn: Se recorre 9 lugares a la izquierda con potencia de 10, se obtiene 0.000000008
 
-(c) 4x10^-12
+c) 4x10^-12
 
-Soluciòn: Se recorre 12 lugares a la izquierda con potencia de 10, se obtiene 0.000000000004
+    Soluciòn: Se recorre 12 lugares a la izquierda con potencia de 10, se obtiene 0.000000000004
 
 10. Efectúe las siguientes sustracciones:
 
 a) (3.2 x 10^12) - (1.1 x 10^12)
 
-* Solución: Como tienen la misma potencia se resta lo siguiuente y se mantiene la potencia:
-* 3.2 - 1.1= 2.1x10^12
+    * Solución: Como tienen la misma potencia se resta lo siguiuente y se mantiene la potencia:
+    * 3.2 - 1.1= 2.1x10^12
 
 b) (2.6 x 10^8) - (1.3 x 10^7)
 
-* Solución: Como no tienen la misma potencia se iguala teniendo:
-* (26 x 10^7) - (1.3 x 10^7)
-* Al estar igualadas las potencias se resta y se mantiene la potencia.
-* 26-1.3= 24.7x10^7
+    * Solución: Como no tienen la misma potencia se iguala teniendo:
+    * (26 x 10^7) - (1.3 x 10^7)
+    * Al estar igualadas las potencias se resta y se mantiene la potencia.
+    * 26-1.3= 24.7x10^7
 
 c) (1.5 x 10^-12) - (8 x 10^-13)
 
-* Solución: Igualar potencias
-* (15 x 10^-13) - (8 x 10^-13)
-* Ahora se suma los número sin la potencia y se mantiene la potencia al final:
-* 7x10^-13
+    * Solución: Igualar potencias
+    * (15 x 10^-13) - (8 x 10^-13)
+    * Ahora se suma los número sin la potencia y se mantiene la potencia al final:
+    * 7x10^-13
 
 12. Realice las siguientes divisiones:
+
 a) (1.0 x 10^3) / (2.5 x 10^2)
 
-Solución:
-* Primero dividir los números sin la potencia:
-* 1/2.5= 0.4 
-* Ahora las potencias se debe restar, 3-2= 1
-* El resultado es 0.4x10^1 que es igual a 4.
+    Solución:
+    * Primero dividir los números sin la potencia:
+    * 1/2.5= 0.4 
+    * Ahora las potencias se debe restar, 3-2= 1
+    * El resultado es 0.4x10^1 que es igual a 4.
 
 b) (2.5 x 10^-6) / (5.0 x 10^-8)
 
-Solución: 
-* Primero dividir los números sin la potencia:
-* 2.5/5= 0.5
-* Ahora las potencias se debe restar, -6-(-8)= 2
-* El resultado es 0.5x10^2 que es igual a 50.
+    Solución: 
+    * Primero dividir los números sin la potencia:
+    * 2.5/5= 0.5
+    * Ahora las potencias se debe restar, -6-(-8)= 2
+    * El resultado es 0.5x10^2 que es igual a 50.
 
 c) (4.2 x 10^8) / (2 x 10^-5)
 
-Solución: 
-* Primero dividir los números sin la potencia:
-* 4.2/2= 2.1
-* Ahora las potencias se debe restar, 8-(-5)= 13
-* El resultado es 2.1x10^13
+    Solución: 
+    * Primero dividir los números sin la potencia:
+    * 4.2/2= 2.1
+    * Ahora las potencias se debe restar, 8-(-5)= 13
+    * El resultado es 2.1x10^13
 
 #### 1-3 Notación de Ingeniería y prefijos métricos
 
