@@ -26,6 +26,8 @@ Tipos de materiales usados en electrónica:
 #### Carga eléctrica
 Se establece como una propiedad la carga eléctrica que ocurre cuando ciertas partículas subatómicas interactúan entre sí, esta interacción es electromagnética, a casusa de cargas que puedes ser positivas y a su vez van a ser cargas negativas de las partículas.
 
+![](https://github.com/dennis-jaguaco/Informe1/blob/main/Capítulo1.png)
+
 ### 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 #### 1-2 Notación Científica
