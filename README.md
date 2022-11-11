@@ -519,43 +519,43 @@ Solución:
 
 32. Con el interruptor en una u otra posición, trace de nuevo el circuito de la figura 2-69(d) con un fusible conectado para proteger el circuito contra corriente excesiva.
 
-![](https://github.com/dennis-jaguaco/Tarea1/blob/main/ejercicio32.png)
+![](https://github.com/dennis-jaguaco/Informe1/blob/main/ejercicio32.png)
 
 34. ¿A través de que resistor de la figura 2-70 siempre hay corriente, sin importar la posición de los interruptores?
 
-![](https://github.com/dennis-jaguaco/Tarea1/blob/main/ejercicio34.png)
+![](https://github.com/dennis-jaguaco/Informe1/blob/main/ejercicio34.png)
 
 Solución: Es el resistor R5 dado que en cualquier caso la corriente pase por R1, R2, R3 o R4 siempre esta este conectado a estos, entonces el paso de corriente siempre estará presente en R5. 
 
 36. Las diferentes secciones de un sistema estereofónico están representadas por los bloques que aparecen en la figura 2-71. Muestre cómo se puede utilizar un solo interruptor para conectar el fonógrafo, el reproductor de discos compactos, la casetera, el sintonizador de AM, o el sintonizador de FM al amplificador mediante una sola perilla de control. En un momento dado, solamente una sección puede ser conectada al amplificador.
 
-![](https://github.com/dennis-jaguaco/Tarea1/blob/main/ejercicio36.png)
+![](https://github.com/dennis-jaguaco/Informe1/blob/main/ejercicio36.png)
 
 Solución: Solo se debe conectar el fusible 3 con el 6, ya que los demàs bloques estan unidos y así de esta forma estaría todo conectado.
 
 38. Explique cómo mediría la resistencia de R2 en la figura 2-72.
 
-![](https://github.com/dennis-jaguaco/Tarea1/blob/main/ejercicio38.png)
+![](https://github.com/dennis-jaguaco/Informe1/blob/main/ejercicio38.png)
 
 Solución: Se debe encontrar el circuito sin corriente, después conectar en la parte de entrada del multímetro el cable rojo (in), debe ir el cable negro (out) en el otro extremo, por tanto nos dara el valor de la resistencia R2.
 
 40. En la figura 2-73, indique cómo se conecta un amperímetro para medir la corriente que sale de la
 fuente de voltaje sin importar la posición del interruptor.
 
-![](https://github.com/dennis-jaguaco/Tarea1/blob/main/ejercicio40.png)
+![](https://github.com/dennis-jaguaco/Informe1/blob/main/ejercicio40.png)
 
 Solución: El amperímetro va en serie, por tanto se debe colocar como se muestra en la figura, así de esta forma obtenemos la corriente que sale de la fuente de voltaje.
 
 42. Muestre la colocación apropiada de los voltímetros para medir el voltaje a través de cada resistor
 presente en la figura 2-70.
 
-![](https://github.com/dennis-jaguaco/Tarea1/blob/main/ejercicio42.png)
+![](https://github.com/dennis-jaguaco/Informe1/blob/main/ejercicio42.png)
 
 Solución: Como se muestra en la figura el voltímetro debe estar en paralelo con cada resistor que se vaya a medir, así de esta forma se tomara de manera correcta el valor.
 
 44. ¿Cuánta resistencia está midiendo el ohmmetro de la figura 2-75?
 
-![](https://github.com/dennis-jaguaco/Tarea1/blob/main/ejercicio44.png)
+![](https://github.com/dennis-jaguaco/Informe1/blob/main/ejercicio44.png)
 
 Solución: Indica un valor de 10 Ohms en un intervalo de x10, por tanto el valor es de 100 Ω.
 
