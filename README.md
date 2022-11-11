@@ -571,10 +571,12 @@ Solución: Como se muestra en la figura el voltímetro debe estar en paralelo co
 Solución: Indica un valor de 10 Ohms en un intervalo de x10, por tanto el valor es de 100 Ω.
 
 46. ¿Cuál es la resolución máxima de un multímetro digital de 4 1/2 dígitos?
+
 Solución: La resolución máxima del multímetro 4 1/2 es de 0.0001V
 
 ### 4. VIDEO
 
+https://youtu.be/8Gjc8Alc1CY
 
 ### 5. CONCLUSIONES
 
