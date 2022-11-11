@@ -1,9 +1,10 @@
 
 # UNIVERSIDAD DE LAS FUERZAS ARMADAS "ESPE"
 
-# Informe Tarea 1
-Resumen Capítulo 1
-
+## Informe Tarea 1
+#### Nombre: Dennis Jaguaco
+#### NRC: 10067
+#### Materia: Fundamentos de circuitos eléctricos
 
 ### 1. OBJETIVOS
    * Objetivos generales:
@@ -19,22 +20,11 @@ Resumen Capítulo 1
 ####   Capítulo 1
 Tipos de materiales usados en electrónica:
 * Conductor: En este tipo de material se lo conoce por su baja resistencia al paso de corriente,
-* Semiconductor: Usado deendiendo que tipo de tarea se quiera emplear, ya sea como conductor para un paso de corriente libre, o de aislante siendo lo contrario al conductor, donde el paso de corriente se va a impedir.
+* Semiconductor: Usado dependiendo que tipo de tarea se quiera emplear, ya sea como conductor para un paso de corriente libre, o de aislante siendo lo contrario al conductor, donde el paso de corriente se va a impedir.
 * Aislante: Será difícil pasar corriente por un material aislante. 
   
 #### Carga eléctrica
-
-
-
-Este punto requiere que el estudiante realice una amplia consulta bibliográfica sobre el tema de su trabajo.
-
-Se describe la teoría o conjunto teórico apropiado con la cual el investigador enfrenta su proyecto y la realidad dentro del cual se ubica el problema de investigación, incluye:
-* Describir la actual relación entre el problema enunciado y el sistema o sistemas teóricos/conceptuales que pueden guiarlo.
-* Dejar claramente especificada la relación entre la teoría que guía la investigación y la realidad que se percibe como problema de investigación.
-* Conceptualizar el problema en la forma de un modelo, útil para clarificar los conceptos y relaciones conceptuales.
-* Señalar la forma en que la investigación actual enriquece, amplía y profundiza el conocimiento teórico, sustantivo y metodológico acumulado en estudios previos.
-
-Para su desarrollo debe evitarse en lo posible redactar párrafos continuos de texto, para lo cual se debe utilizar  mentefactos, cuadro comparativos, esquemas o mapas conceptuales
+Se establece como una propiedad la carga eléctrica que ocurre cuando ciertas partículas subatómicas interactúan entre sí, esta interacción es electromagnética, a casusa de cargas que puedes ser positivas y a su vez van a ser cargas negativas de las partículas.
 
 ### 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
@@ -561,9 +551,9 @@ presente en la figura 2-70.
 
 ### 5. CONCLUSIONES
 
-
+* Se puede concluir mediante la resolución de los ejercicios que se comprueba la teoría aprendida, dada la compresión y métodos para completar con cada enunciado cpmpletado de manera correcta, a su vez demostrando la atención impuesta durante las clases.
+* Además, se aplica en cada ejercicio el procedimiento pertinente con su respectiva solución y explicación a su vez del mismo, siendo una manera mas sencilla y eficaz de comnprendere que se desarrollo en cada literal establecido.
 
 ### 6. BIBLIOGRAFÍA
 
-![](https://github.com/doalulema/InformeTarea/blob/main/Tarea.png)# InformeTarea
 
