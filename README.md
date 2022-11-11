@@ -316,7 +316,8 @@ c) 1501F
 
 32. Con el interruptor en una u otra posición, trace de nuevo el circuito de la figura 2-69(d) con un fusible
 conectado para proteger el circuito contra corriente excesiva.
-![](https://github.com/dennis-jaguaco/InformeTarea/blob/main/ejercicio32.png)# InformeTarea
+
+![](https://github.com/dennis-jaguaco/Tarea1/blob/main/ejercicio32.png)# InformeTarea
 
 
 ####
